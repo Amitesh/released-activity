@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Get Released Activities</title>
+        
+        <link href="css/vendor/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="css/vendor/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
+        <link href="css/app.css" rel="stylesheet" type="text/css">
+
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <script src="popup.js"></script>
+
+    </head>
+    <body>
+        <div>
+            <div class="popup-alert">
+            </div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xs-12 .col-md-12">
+                        <h4 class="title">Get released activities</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 .col-md-12">
+                        <div class="populate-box box-margin">
+                            <div>
+                                <input type="text" name="sprint-id" class="sprint-id form-control" placeholder="Enter sprint id like 377">
+                            </div>
+                            <div>
+                                <a href="#" class="btn btn-primary btn-block btn-open-issue-page">Open issue page</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 .col-md-12">
+                        <div class="populate-box box-margin">
+                            <div>
+                                <div>Select approx page load delay for paginated pages</div>
+                                <select name="page-load-delay" class="page-load-delay form-control">
+                                    <option value="5">5 seconds</option>
+                                    <option value="10" selected="selected">10 seconds</option>
+                                    <option value="15">15 seconds</option>
+                                    <option value="20">20 seconds</option>
+                                </select>
+                            </div>
+                            <div>
+                                <a href="#" class="btn btn-info btn-block btn-get-releases">Populate</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row result-box">
+                    <div class="col-xs-12 .col-md-12">
+                        <div class="populate-box">
+                            <div>
+                                <textarea class="results">
+                                </textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </body>
+</html>

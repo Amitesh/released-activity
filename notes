@@ -1,0 +1,5 @@
+
+Start Sass converter
+
+$ cd /home/amitesh/projects/icresset-git/mathletics/chrome-plugin/released-activities/css
+$ sass --watch app.scss:app.css

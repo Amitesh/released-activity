@@ -1,0 +1,1995 @@
+{
+  "Sprint 12 (25th May - 5th Jun)": {
+    "118": {
+      "activityId": 118,
+      "branchName": "ACTIVITY-118",
+      "title": "Using a Calendar",
+      "releasedOn": "2015-05-29T03:39:49Z",
+      "sprint": "12"
+    },
+    "119": {
+      "activityId": 119,
+      "branchName": "ACTIVITY-119",
+      "title": "Using a Calendar",
+      "releasedOn": "2015-06-03T03:23:56Z",
+      "sprint": "12"
+    },
+    "878": {
+      "activityId": 878,
+      "branchName": "ACTIVITY-878",
+      "title": "Line Plots",
+      "releasedOn": "2015-06-04T08:26:38Z",
+      "sprint": "12"
+    },
+    "925": {
+      "activityId": 925,
+      "branchName": "ACTIVITY-925",
+      "title": "Breakeven Point",
+      "releasedOn": "2015-06-03T06:22:36Z",
+      "sprint": "12"
+    },
+    "972": {
+      "activityId": 972,
+      "branchName": "ACTIVITY-972",
+      "title": "Coordinate Methods in Geometry",
+      "releasedOn": "2015-06-03T07:25:14Z",
+      "sprint": "12"
+    },
+    "1136": {
+      "activityId": 1136,
+      "branchName": "ACTIVITY-1136",
+      "title": "Linear Programming 1",
+      "releasedOn": "2015-06-04T08:26:57Z",
+      "sprint": "12"
+    },
+    "1150": {
+      "activityId": 1150,
+      "branchName": "ACTIVITY-1150",
+      "title": "Not Ready",
+      "releasedOn": "2015-06-03T06:27:02Z",
+      "sprint": "12"
+    },
+    "1158": {
+      "activityId": 1158,
+      "branchName": "ACTIVITY-1158",
+      "title": "Nth Term of a Geometric Series",
+      "releasedOn": "2015-06-02T06:02:57Z",
+      "sprint": "12"
+    },
+    "1159": {
+      "activityId": 1159,
+      "branchName": "ACTIVITY-1159",
+      "title": "Not Ready",
+      "releasedOn": "2015-06-02T06:03:04Z",
+      "sprint": "12"
+    },
+    "1256": {
+      "activityId": 1256,
+      "branchName": "ACTIVITY-1256",
+      "title": "Greater or Less to 100",
+      "releasedOn": "2015-06-03T06:17:27Z",
+      "sprint": "12"
+    },
+    "1286": {
+      "activityId": 1286,
+      "branchName": "ACTIVITY-1317",
+      "title": "1286 - Which Measure of Central Tendency?",
+      "releasedOn": "2015-06-03T06:10:25Z",
+      "sprint": "12"
+    },
+    "1288": {
+      "activityId": 1288,
+      "branchName": "ACTIVITY-1351",
+      "title": "1288 - Calculating Binomial Probability",
+      "releasedOn": "2015-06-04T08:27:08Z",
+      "sprint": "12"
+    },
+    "1289": {
+      "activityId": 1289,
+      "branchName": "ACTIVITY-1353",
+      "title": "1289 - Introduction to Binomial Probability",
+      "releasedOn": "2015-06-04T08:27:15Z",
+      "sprint": "12"
+    },
+    "1290": {
+      "activityId": 1290,
+      "branchName": "ACTIVITY-1352",
+      "title": "1290 - Data types",
+      "releasedOn": "2015-06-03T06:10:06Z",
+      "sprint": "12"
+    },
+    "1299": {
+      "activityId": 1299,
+      "branchName": "ACTIVITY-1323",
+      "title": "1299 - Perpendicular and Parallel Lines",
+      "releasedOn": "2015-06-02T00:52:08Z",
+      "sprint": "12"
+    },
+    "1305": {
+      "activityId": 1305,
+      "branchName": "ACTIVITY-1305",
+      "title": "ACT-1305 Intersection- Line & Parabola",
+      "releasedOn": "2015-06-02T00:51:18Z",
+      "sprint": "12"
+    },
+    "1306": {
+      "activityId": 1306,
+      "branchName": "ACTIVITY-1306",
+      "title": "Intersection: Line & Circle",
+      "releasedOn": "2015-06-02T00:49:45Z",
+      "sprint": "12"
+    },
+    "1311": {
+      "activityId": 1311,
+      "branchName": "ACTIVITY-1311",
+      "title": "Intersection: Line & Hyperbola",
+      "releasedOn": "2015-06-02T00:48:51Z",
+      "sprint": "12"
+    },
+    "1319": {
+      "activityId": 1319,
+      "branchName": "ACTIVITY-1363",
+      "title": "Activity - 1319 Cone and pyramid dimensions (Pythagoras theorem to calculate the slant height)",
+      "releasedOn": "2015-06-03T06:10:00Z",
+      "sprint": "12"
+    }
+  },
+  "Sprint 13 (8th Jun - 19th Jun)": {
+    "118": {
+      "activityId": 118,
+      "branchName": "ACTIVITY-1409",
+      "title": "Activity - 118 upgrade to new framework",
+      "releasedOn": "2015-06-19T00:19:51Z",
+      "sprint": "13"
+    },
+    "119": {
+      "activityId": 119,
+      "branchName": "ACTIVITY-1410",
+      "title": "Activity - 119 upgrade to new framework",
+      "releasedOn": "2015-06-19T00:19:46Z",
+      "sprint": "13"
+    },
+    "249": {
+      "activityId": 249,
+      "branchName": "ACTIVITY-249",
+      "title": "Long Multiplication 1",
+      "releasedOn": "2015-06-16T08:56:20Z",
+      "sprint": "13"
+    },
+    "456": {
+      "activityId": 456,
+      "branchName": "ACTIVITY-1385",
+      "title": "Activity - 456 Enhancement",
+      "releasedOn": "2015-06-09T01:20:46Z",
+      "sprint": "13"
+    },
+    "593": {
+      "activityId": 593,
+      "branchName": "ACTIVITY-593",
+      "title": "Histogram or Polygon?",
+      "releasedOn": "2015-06-09T01:18:59Z",
+      "sprint": "13"
+    },
+    "699": {
+      "activityId": 699,
+      "branchName": "ACTIVITY-699",
+      "title": "Divide: 1-Digit Divisor, Remainder",
+      "releasedOn": "2015-06-16T02:45:38Z",
+      "sprint": "13"
+    },
+    "731": {
+      "activityId": 731,
+      "branchName": "ACTIVITY-1383",
+      "title": "Activity - 731 Upgrade the framework version and code clean up",
+      "releasedOn": "2015-06-24T10:23:14Z",
+      "sprint": "13"
+    },
+    "735": {
+      "activityId": 735,
+      "branchName": "ACTIVITY-735",
+      "title": "Linear Regions",
+      "releasedOn": "2015-06-16T02:47:28Z",
+      "sprint": "13"
+    },
+    "754": {
+      "activityId": 754,
+      "branchName": "ACTIVITY-754",
+      "title": "Similar Areas and Volumes",
+      "releasedOn": "2015-06-10T02:34:38Z",
+      "sprint": "13"
+    },
+    "767": {
+      "activityId": 767,
+      "branchName": "ACTIVITY-767",
+      "title": "Solve Systems by Graphing",
+      "releasedOn": "2015-06-16T02:48:27Z",
+      "sprint": "13"
+    },
+    "801": {
+      "activityId": 801,
+      "branchName": "ACTIVITY-801",
+      "title": "Divide: 2-Digit Divisor, Remainder",
+      "releasedOn": "2015-06-16T02:45:46Z",
+      "sprint": "13"
+    },
+    "848": {
+      "activityId": 848,
+      "branchName": "ACTIVITY-848",
+      "title": "Subtract Numbers: Regroup",
+      "releasedOn": "2015-06-10T02:35:42Z",
+      "sprint": "13"
+    },
+    "861": {
+      "activityId": 861,
+      "branchName": "ACTIVITY-861",
+      "title": "Reading from a Bill",
+      "releasedOn": "2015-06-10T02:39:17Z",
+      "sprint": "13"
+    },
+    "879": {
+      "activityId": 879,
+      "branchName": "ACTIVITY-879",
+      "title": "Tally Charts",
+      "releasedOn": "2015-06-16T02:45:49Z",
+      "sprint": "13"
+    },
+    "1042": {
+      "activityId": 1042,
+      "branchName": "ACTIVITY-1042",
+      "title": "Graphs from Bills",
+      "releasedOn": "2015-06-11T01:11:02Z",
+      "sprint": "13"
+    },
+    "1121": {
+      "activityId": 1121,
+      "branchName": "ACTIVITY-1121",
+      "title": "Adding to 5",
+      "releasedOn": "2015-06-10T02:37:08Z",
+      "sprint": "13"
+    },
+    "1122": {
+      "activityId": 1122,
+      "branchName": "ACTIVITY-1122",
+      "title": "Subtracting From 5",
+      "releasedOn": "2015-06-10T02:37:18Z",
+      "sprint": "13"
+    },
+    "1150": {
+      "activityId": 1150,
+      "branchName": "ACTIVITY-1379",
+      "title": "Activity- 1150 Upgrade the framework version",
+      "releasedOn": "2015-06-16T08:56:53Z",
+      "sprint": "13"
+    },
+    "1153": {
+      "activityId": 1153,
+      "branchName": "ACTIVITY-1153",
+      "title": "Intro to Permutations and Combinations",
+      "releasedOn": "2015-06-11T01:25:39Z",
+      "sprint": "13"
+    },
+    "1194": {
+      "activityId": 1194,
+      "branchName": "ACTIVITY-1194",
+      "title": "Income Tax (Ireland)",
+      "releasedOn": "2015-06-16T08:50:26Z",
+      "sprint": "13"
+    },
+    "1195": {
+      "activityId": 1195,
+      "branchName": "ACTIVITY-1195",
+      "title": "Not Ready",
+      "releasedOn": "2015-06-16T08:50:32Z",
+      "sprint": "13"
+    },
+    "1215": {
+      "activityId": 1215,
+      "branchName": "ACTIVITY-1215",
+      "title": "2x2 Matrices - Properties",
+      "releasedOn": "2015-06-10T02:38:45Z",
+      "sprint": "13"
+    },
+    "1236": {
+      "activityId": 1236,
+      "branchName": "ACTIVITY-1387",
+      "title": "Activity - 1236 Upgrade framework",
+      "releasedOn": "2015-06-09T01:20:23Z",
+      "sprint": "13"
+    },
+    "1237": {
+      "activityId": 1237,
+      "branchName": "ACTIVITY-1388",
+      "title": "Activity - 1237 Upgrade framework",
+      "releasedOn": "2015-06-09T01:20:33Z",
+      "sprint": "13"
+    },
+    "1250": {
+      "activityId": 1250,
+      "branchName": "ACTIVITY-1392",
+      "title": "Activity 1250 Upgrade framework",
+      "releasedOn": "2015-06-16T02:49:04Z",
+      "sprint": "13"
+    },
+    "1251": {
+      "activityId": 1251,
+      "branchName": "ACTIVITY-1386",
+      "title": "Activity - 1251 Enhancement and fixed issue",
+      "releasedOn": "2015-06-16T08:34:23Z",
+      "sprint": "13"
+    },
+    "1264": {
+      "activityId": 1264,
+      "branchName": "ACTIVITY-1264",
+      "title": "Fractions of a Collection 2",
+      "releasedOn": "2015-06-10T02:39:05Z",
+      "sprint": "13"
+    },
+    "1278": {
+      "activityId": 1278,
+      "branchName": "ACTIVITY-1278",
+      "title": "Conditional probability",
+      "releasedOn": "2015-06-11T01:24:25Z",
+      "sprint": "13"
+    },
+    "1291": {
+      "activityId": 1291,
+      "branchName": "ACTIVITY-1318",
+      "title": "1291 - Data sampling",
+      "releasedOn": "2015-06-09T01:21:11Z",
+      "sprint": "13"
+    },
+    "1292": {
+      "activityId": 1292,
+      "branchName": "ACTIVITY-1319",
+      "title": "1292 - Mean difference and deviation",
+      "releasedOn": "2015-06-16T08:56:04Z",
+      "sprint": "13"
+    },
+    "1293": {
+      "activityId": 1293,
+      "branchName": "ACTIVITY-1320",
+      "title": "1293 - Mean difference and deviation",
+      "releasedOn": "2015-06-11T01:22:44Z",
+      "sprint": "13"
+    },
+    "1307": {
+      "activityId": 1307,
+      "branchName": "ACTIVITY-1307",
+      "title": "Intersection: Two Parabolas",
+      "releasedOn": "2015-06-18T08:05:50Z",
+      "sprint": "13"
+    },
+    "1312": {
+      "activityId": 1312,
+      "branchName": "ACTIVITY-1312",
+      "title": "Square and Cube Roots",
+      "releasedOn": "2015-06-16T08:51:21Z",
+      "sprint": "13"
+    },
+    "1314": {
+      "activityId": 1314,
+      "branchName": "ACTIVITY-1314",
+      "title": "Scaling Fractions",
+      "releasedOn": "2015-06-16T02:47:21Z",
+      "sprint": "13"
+    },
+    "1324": {
+      "activityId": 1324,
+      "branchName": "ACTIVITY-1349",
+      "title": "Act 1324 - Fraction in its simplest form",
+      "releasedOn": "2015-06-10T05:59:48Z",
+      "sprint": "13"
+    },
+    "1351": {
+      "activityId": 1351,
+      "branchName": "ACTIVITY-1364",
+      "title": "Activity - 1351 Not ready",
+      "releasedOn": "2015-06-10T02:36:49Z",
+      "sprint": "13"
+    },
+    "1353": {
+      "activityId": 1353,
+      "branchName": "ACTIVITY-1365",
+      "title": "Activity - 1353 Matrices for Equations 2x2",
+      "releasedOn": "2015-06-16T02:48:39Z",
+      "sprint": "13"
+    }
+  },
+  "Sprint 14 (22nd Jun - 3rd Jul)": {
+    "195": {
+      "activityId": 195,
+      "branchName": "ACTIVITY-195",
+      "title": "Perimeter",
+      "releasedOn": "2015-07-01T09:22:05Z",
+      "sprint": "14"
+    },
+    "316": {
+      "activityId": 316,
+      "branchName": "ACTIVITY-316",
+      "title": "Rotational Symmetry",
+      "releasedOn": "2015-06-25T00:37:11Z",
+      "sprint": "14"
+    },
+    "353": {
+      "activityId": 353,
+      "branchName": "ACTIVITY-353",
+      "title": "What are the Chances?",
+      "releasedOn": "2015-07-02T00:13:41Z",
+      "sprint": "14"
+    },
+    "354": {
+      "activityId": 354,
+      "branchName": "ACTIVITY-354",
+      "title": "Will it Happen?",
+      "releasedOn": "2015-07-02T00:13:48Z",
+      "sprint": "14"
+    },
+    "355": {
+      "activityId": 355,
+      "branchName": "ACTIVITY-355",
+      "title": "What are the Chances?",
+      "releasedOn": "2015-07-02T00:15:50Z",
+      "sprint": "14"
+    },
+    "356": {
+      "activityId": 356,
+      "branchName": "ACTIVITY-356",
+      "title": "Most Likely and Least Likely",
+      "releasedOn": "2015-07-02T00:15:54Z",
+      "sprint": "14"
+    },
+    "494": {
+      "activityId": 494,
+      "branchName": "ACTIVITY-494",
+      "title": "Congruent Triangles",
+      "releasedOn": "2015-06-24T00:29:34Z",
+      "sprint": "14"
+    },
+    "495": {
+      "activityId": 495,
+      "branchName": "ACTIVITY-1413",
+      "title": "Activity - 495 Upgrade code",
+      "releasedOn": "2015-06-25T00:42:15Z",
+      "sprint": "14"
+    },
+    "636": {
+      "activityId": 636,
+      "branchName": "ACTIVITY-1421",
+      "title": "Activity - 636 complete the implementation",
+      "releasedOn": "2015-07-02T00:26:29Z",
+      "sprint": "14"
+    },
+    "733": {
+      "activityId": 733,
+      "branchName": "ACTIVITY-1397",
+      "title": "Activity - 733 Upgrade framework version",
+      "releasedOn": "2015-06-25T03:18:39Z",
+      "sprint": "14"
+    },
+    "752": {
+      "activityId": 752,
+      "branchName": "ACTIVITY-752",
+      "title": "Cosine Rule 2",
+      "releasedOn": "2015-06-25T01:46:07Z",
+      "sprint": "14"
+    },
+    "754": {
+      "activityId": 754,
+      "branchName": "ACTIVITY-1378",
+      "title": "Activity - 754 Upgrade the version and code cleanup",
+      "releasedOn": "2015-06-25T06:53:03Z",
+      "sprint": "14"
+    },
+    "767": {
+      "activityId": 767,
+      "branchName": "ACTIVITY-1344",
+      "title": "AF-741 - Activity-767 The grid lines are not correct",
+      "releasedOn": "2015-07-02T00:34:12Z",
+      "sprint": "14"
+    },
+    "808": {
+      "activityId": 808,
+      "branchName": "ACTIVITY-808",
+      "title": "Make Big Numbers Count",
+      "releasedOn": "2015-07-02T00:31:54Z",
+      "sprint": "14"
+    },
+    "811": {
+      "activityId": 811,
+      "branchName": "ACTIVITY-811",
+      "title": "Divide Into Equal Groups",
+      "releasedOn": "2015-07-02T07:38:51Z",
+      "sprint": "14"
+    },
+    "816": {
+      "activityId": 816,
+      "branchName": "ACTIVITY-816",
+      "title": "Complete the Pattern",
+      "releasedOn": "2015-07-01T08:52:58Z",
+      "sprint": "14"
+    },
+    "852": {
+      "activityId": 852,
+      "branchName": "ACTIVITY-1423",
+      "title": "Activity - 852 Fix Show answer for single coin case",
+      "releasedOn": "2015-07-01T08:51:40Z",
+      "sprint": "14"
+    },
+    "879": {
+      "activityId": 879,
+      "branchName": "ACTIVITY-1345",
+      "title": "AF-741 - Activity-879 Table showing the tallies is broken even on web.",
+      "releasedOn": "2015-06-25T02:28:23Z",
+      "sprint": "14"
+    },
+    "919": {
+      "activityId": 919,
+      "branchName": "ACTIVITY-919",
+      "title": "Simultaneous Linear Equations",
+      "releasedOn": "2015-06-25T00:51:45Z",
+      "sprint": "14"
+    },
+    "925": {
+      "activityId": 925,
+      "branchName": "ACTIVITY-1422",
+      "title": "Activity - 925 upgrade the framework",
+      "releasedOn": "2015-07-02T00:15:45Z",
+      "sprint": "14"
+    },
+    "927": {
+      "activityId": 927,
+      "branchName": "ACTIVITY-1341",
+      "title": "AF-740 - Activity-927 SVG <mask> and <text> are not supported for Android",
+      "releasedOn": "2015-06-25T02:27:39Z",
+      "sprint": "14"
+    },
+    "928": {
+      "activityId": 928,
+      "branchName": "ACTIVITY-1342",
+      "title": "AF-740 - Activity-928 SVG <mask> and <text> are not supported for Android",
+      "releasedOn": "2015-06-25T02:27:33Z",
+      "sprint": "14"
+    },
+    "1012": {
+      "activityId": 1012,
+      "branchName": "ACTIVITY-1012",
+      "title": "Log Laws",
+      "releasedOn": "2015-06-29T23:58:43Z",
+      "sprint": "14"
+    },
+    "1013": {
+      "activityId": 1013,
+      "branchName": "ACTIVITY-1013",
+      "title": "Change of Base",
+      "releasedOn": "2015-06-25T01:37:32Z",
+      "sprint": "14"
+    },
+    "1035": {
+      "activityId": 1035,
+      "branchName": "ACTIVITY-1035",
+      "title": "Velocity 1",
+      "releasedOn": "2015-06-29T23:58:51Z",
+      "sprint": "14"
+    },
+    "1060": {
+      "activityId": 1060,
+      "branchName": "ACTIVITY-1429",
+      "title": "Activity - 1060 Fix the input visibility issue",
+      "releasedOn": "2015-07-01T08:52:32Z",
+      "sprint": "14"
+    },
+    "1061": {
+      "activityId": 1061,
+      "branchName": "ACTIVITY-1428",
+      "title": "Activity -1061 Fix the input visibility issue",
+      "releasedOn": "2015-07-01T08:52:39Z",
+      "sprint": "14"
+    },
+    "1068": {
+      "activityId": 1068,
+      "branchName": "ACTIVITY-1068",
+      "title": "Add 3 Single Digit Numbers",
+      "releasedOn": "2015-06-25T01:55:26Z",
+      "sprint": "14"
+    },
+    "1103": {
+      "activityId": 1103,
+      "branchName": "ACTIVITY-1430",
+      "title": "Activity - 1103 Upgrade the framework version and fixed functionality issue",
+      "releasedOn": "2015-07-01T08:53:14Z",
+      "sprint": "14"
+    },
+    "1147": {
+      "activityId": 1147,
+      "branchName": "ACTIVITY-1147",
+      "title": "Partial Fractions",
+      "releasedOn": "2015-07-06T02:10:30Z",
+      "sprint": "14"
+    },
+    "1148": {
+      "activityId": 1148,
+      "branchName": "ACTIVITY-1148",
+      "title": "Argand Diagram",
+      "releasedOn": "2015-06-25T01:28:38Z",
+      "sprint": "14"
+    },
+    "1151": {
+      "activityId": 1151,
+      "branchName": "ACTIVITY-1151",
+      "title": "Definite or Indefinite",
+      "releasedOn": "2015-06-25T01:47:06Z",
+      "sprint": "14"
+    },
+    "1178": {
+      "activityId": 1178,
+      "branchName": "ACTIVITY-1178",
+      "title": "3D Trigonometry",
+      "releasedOn": "2015-06-29T23:58:29Z",
+      "sprint": "14"
+    },
+    "1210": {
+      "activityId": 1210,
+      "branchName": "ACTIVITY-1210",
+      "title": "Mixed and Improper Fractions on a Number Line",
+      "releasedOn": "2015-06-25T01:56:01Z",
+      "sprint": "14"
+    },
+    "1232": {
+      "activityId": 1232,
+      "branchName": "ACTIVITY-1393",
+      "title": "Activity 1232 Upgrade framework",
+      "releasedOn": "2015-06-25T01:14:39Z",
+      "sprint": "14"
+    },
+    "1251": {
+      "activityId": 1251,
+      "branchName": "ACTIVITY-1251",
+      "title": "Networks Introduction",
+      "releasedOn": "2015-06-25T00:32:41Z",
+      "sprint": "14"
+    },
+    "1255": {
+      "activityId": 1255,
+      "branchName": "ACTIVITY-1380",
+      "title": "Activity- 1255 Upgrade the framework version",
+      "releasedOn": "2015-06-25T02:18:29Z",
+      "sprint": "14"
+    },
+    "1260": {
+      "activityId": 1260,
+      "branchName": "ACTIVITY-1260",
+      "title": "Match Decimals and Percentages",
+      "releasedOn": "2015-07-01T08:53:46Z",
+      "sprint": "14"
+    },
+    "1265": {
+      "activityId": 1265,
+      "branchName": "ACTIVITY-1265",
+      "title": "Uneven partitioned shapes 1",
+      "releasedOn": "2015-06-29T23:58:18Z",
+      "sprint": "14"
+    },
+    "1266": {
+      "activityId": 1266,
+      "branchName": "ACTIVITY-1266",
+      "title": "Uneven partitioned shapes 2",
+      "releasedOn": "2015-07-02T08:35:26Z",
+      "sprint": "14"
+    },
+    "1268": {
+      "activityId": 1268,
+      "branchName": "ACTIVITY-1268",
+      "title": "Fraction Wall Labelling 2",
+      "releasedOn": "2015-07-03T08:25:01Z",
+      "sprint": "14"
+    },
+    "1271": {
+      "activityId": 1271,
+      "branchName": "ACTIVITY-1271",
+      "title": "Partition puzzles 1",
+      "releasedOn": "2015-06-25T01:50:50Z",
+      "sprint": "14"
+    },
+    "1272": {
+      "activityId": 1272,
+      "branchName": "ACTIVITY-1272",
+      "title": "Partition puzzles 2",
+      "releasedOn": "2015-06-25T01:51:09Z",
+      "sprint": "14"
+    },
+    "1274": {
+      "activityId": 1274,
+      "branchName": "ACTIVITY-1274",
+      "title": "Multiplication Turnarounds",
+      "releasedOn": "2015-06-24T11:30:45Z",
+      "sprint": "14"
+    },
+    "1277": {
+      "activityId": 1277,
+      "branchName": "ACTIVITY-1277",
+      "title": "Data Analysis: Scatter Plots",
+      "releasedOn": "2015-07-02T08:30:19Z",
+      "sprint": "14"
+    },
+    "1281": {
+      "activityId": 1281,
+      "branchName": "ACTIVITY-1315",
+      "title": "1281 - Normal Distribution Probability",
+      "releasedOn": "2015-07-02T07:27:52Z",
+      "sprint": "14"
+    },
+    "1322": {
+      "activityId": 1322,
+      "branchName": "ACTIVITY-1322",
+      "title": "Vertical and horizontal shift",
+      "releasedOn": "2015-06-25T02:25:32Z",
+      "sprint": "14"
+    }
+  },
+  "Sprint 15 (6th Jul - 17th Jul)": {
+    "19": {
+      "activityId": 19,
+      "branchName": "ACTIVITY-19",
+      "title": "Counting by Twos",
+      "releasedOn": "2015-07-14T05:37:40Z",
+      "sprint": "15"
+    },
+    "20": {
+      "activityId": 20,
+      "branchName": "ACTIVITY-20",
+      "title": "Counting by Fives",
+      "releasedOn": "2015-07-14T05:37:44Z",
+      "sprint": "15"
+    },
+    "21": {
+      "activityId": 21,
+      "branchName": "ACTIVITY-21",
+      "title": "Counting by Tens",
+      "releasedOn": "2015-07-14T05:37:48Z",
+      "sprint": "15"
+    },
+    "29": {
+      "activityId": 29,
+      "branchName": "ACTIVITY-29",
+      "title": "Groups of Three",
+      "releasedOn": "2015-07-14T07:20:49Z",
+      "sprint": "15"
+    },
+    "30": {
+      "activityId": 30,
+      "branchName": "ACTIVITY-30",
+      "title": "Groups of Three",
+      "releasedOn": "2015-07-14T07:20:58Z",
+      "sprint": "15"
+    },
+    "31": {
+      "activityId": 31,
+      "branchName": "ACTIVITY-31",
+      "title": "Groups of Four",
+      "releasedOn": "2015-07-14T07:21:04Z",
+      "sprint": "15"
+    },
+    "32": {
+      "activityId": 32,
+      "branchName": "ACTIVITY-32",
+      "title": "Groups of Four",
+      "releasedOn": "2015-07-14T07:21:09Z",
+      "sprint": "15"
+    },
+    "33": {
+      "activityId": 33,
+      "branchName": "ACTIVITY-33",
+      "title": "Groups of Six",
+      "releasedOn": "2015-07-14T07:21:15Z",
+      "sprint": "15"
+    },
+    "34": {
+      "activityId": 34,
+      "branchName": "ACTIVITY-34",
+      "title": "Groups of Six",
+      "releasedOn": "2015-07-14T07:21:22Z",
+      "sprint": "15"
+    },
+    "35": {
+      "activityId": 35,
+      "branchName": "ACTIVITY-35",
+      "title": "Groups of Seven",
+      "releasedOn": "2015-07-14T07:21:29Z",
+      "sprint": "15"
+    },
+    "41": {
+      "activityId": 41,
+      "branchName": "ACTIVITY-41",
+      "title": "Dividing Twos",
+      "releasedOn": "2015-07-14T07:21:38Z",
+      "sprint": "15"
+    },
+    "42": {
+      "activityId": 42,
+      "branchName": "ACTIVITY-42",
+      "title": "Dividing Twos",
+      "releasedOn": "2015-07-14T07:21:56Z",
+      "sprint": "15"
+    },
+    "43": {
+      "activityId": 43,
+      "branchName": "ACTIVITY-43",
+      "title": "Dividing Fives",
+      "releasedOn": "2015-07-14T07:09:37Z",
+      "sprint": "15"
+    },
+    "44": {
+      "activityId": 44,
+      "branchName": "ACTIVITY-44",
+      "title": "Dividing Fives",
+      "releasedOn": "2015-07-14T07:13:46Z",
+      "sprint": "15"
+    },
+    "45": {
+      "activityId": 45,
+      "branchName": "ACTIVITY-45",
+      "title": "Dividing Tens",
+      "releasedOn": "2015-07-14T07:13:53Z",
+      "sprint": "15"
+    },
+    "46": {
+      "activityId": 46,
+      "branchName": "ACTIVITY-46",
+      "title": "Dividing Threes",
+      "releasedOn": "2015-07-14T07:13:59Z",
+      "sprint": "15"
+    },
+    "47": {
+      "activityId": 47,
+      "branchName": "ACTIVITY-47",
+      "title": "Dividing Threes",
+      "releasedOn": "2015-07-20T00:29:08Z",
+      "sprint": "15"
+    },
+    "48": {
+      "activityId": 48,
+      "branchName": "ACTIVITY-48",
+      "title": "Dividing Fours",
+      "releasedOn": "2015-07-20T00:39:27Z",
+      "sprint": "15"
+    },
+    "49": {
+      "activityId": 49,
+      "branchName": "ACTIVITY-49",
+      "title": "Dividing Fours",
+      "releasedOn": "2015-07-20T00:38:34Z",
+      "sprint": "15"
+    },
+    "50": {
+      "activityId": 50,
+      "branchName": "ACTIVITY-50",
+      "title": "Dividing Sixes",
+      "releasedOn": "2015-07-20T00:39:37Z",
+      "sprint": "15"
+    },
+    "51": {
+      "activityId": 51,
+      "branchName": "ACTIVITY-51",
+      "title": "Dividing Sixes",
+      "releasedOn": "2015-07-20T00:38:44Z",
+      "sprint": "15"
+    },
+    "52": {
+      "activityId": 52,
+      "branchName": "ACTIVITY-52",
+      "title": "Dividing Sevens",
+      "releasedOn": "2015-07-20T00:39:52Z",
+      "sprint": "15"
+    },
+    "53": {
+      "activityId": 53,
+      "branchName": "ACTIVITY-53",
+      "title": "Dividing Sevens",
+      "releasedOn": "2015-07-20T00:38:50Z",
+      "sprint": "15"
+    },
+    "54": {
+      "activityId": 54,
+      "branchName": "ACTIVITY-54",
+      "title": "Dividing Eights",
+      "releasedOn": "2015-07-20T00:40:11Z",
+      "sprint": "15"
+    },
+    "55": {
+      "activityId": 55,
+      "branchName": "ACTIVITY-55",
+      "title": "Dividing Eights 1",
+      "releasedOn": "2015-07-20T00:38:55Z",
+      "sprint": "15"
+    },
+    "56": {
+      "activityId": 56,
+      "branchName": "ACTIVITY-56",
+      "title": "Dividing Nines",
+      "releasedOn": "2015-07-20T00:50:08Z",
+      "sprint": "15"
+    },
+    "57": {
+      "activityId": 57,
+      "branchName": "ACTIVITY-57",
+      "title": "Dividing Nines",
+      "releasedOn": "2015-07-20T00:39:00Z",
+      "sprint": "15"
+    },
+    "65": {
+      "activityId": 65,
+      "branchName": "ACTIVITY-65",
+      "title": "Simple Subtraction",
+      "releasedOn": "2015-07-14T07:14:10Z",
+      "sprint": "15"
+    },
+    "66": {
+      "activityId": 66,
+      "branchName": "ACTIVITY-66",
+      "title": "Simple Subtraction",
+      "releasedOn": "2015-07-14T07:14:14Z",
+      "sprint": "15"
+    },
+    "164": {
+      "activityId": 164,
+      "branchName": "ACTIVITY-164",
+      "title": "Money",
+      "releasedOn": "2015-07-16T00:25:52Z",
+      "sprint": "15"
+    },
+    "206": {
+      "activityId": 206,
+      "branchName": "ACTIVITY-206",
+      "title": "How many Combinations?",
+      "releasedOn": "2015-07-20T00:41:21Z",
+      "sprint": "15"
+    },
+    "207": {
+      "activityId": 207,
+      "branchName": "ACTIVITY-207",
+      "title": "Possible Outcomes",
+      "releasedOn": "2015-07-20T00:41:26Z",
+      "sprint": "15"
+    },
+    "217": {
+      "activityId": 217,
+      "branchName": "ACTIVITY-217",
+      "title": "Using Timetables",
+      "releasedOn": "2015-07-20T00:21:43Z",
+      "sprint": "15"
+    },
+    "232": {
+      "activityId": 232,
+      "branchName": "ACTIVITY-232",
+      "title": "Map Coordinates",
+      "releasedOn": "2015-07-20T00:22:04Z",
+      "sprint": "15"
+    },
+    "255": {
+      "activityId": 255,
+      "branchName": "ACTIVITY-255",
+      "title": "Order of Operations 1 (PEDMAS)",
+      "releasedOn": "2015-07-14T07:14:23Z",
+      "sprint": "15"
+    },
+    "257": {
+      "activityId": 257,
+      "branchName": "ACTIVITY-257",
+      "title": "Prime or Composite?",
+      "releasedOn": "2015-07-20T00:39:20Z",
+      "sprint": "15"
+    },
+    "594": {
+      "activityId": 594,
+      "branchName": "ACTIVITY-594",
+      "title": "Wages and Salaries",
+      "releasedOn": "2015-07-14T06:31:59Z",
+      "sprint": "15"
+    },
+    "739": {
+      "activityId": 739,
+      "branchName": "ACTIVITY-739",
+      "title": "Area: Parallelograms",
+      "releasedOn": "2015-07-20T00:21:47Z",
+      "sprint": "15"
+    },
+    "743": {
+      "activityId": 743,
+      "branchName": "ACTIVITY-743",
+      "title": "Estimate Decimal Differences 1",
+      "releasedOn": "2015-07-20T00:21:55Z",
+      "sprint": "15"
+    },
+    "745": {
+      "activityId": 745,
+      "branchName": "ACTIVITY-745",
+      "title": "Estimate Decimal Sums 1",
+      "releasedOn": "2015-07-16T01:59:43Z",
+      "sprint": "15"
+    },
+    "747": {
+      "activityId": 747,
+      "branchName": "ACTIVITY-747",
+      "title": "Estimate Decimal Differences 2",
+      "releasedOn": "2015-07-16T01:59:49Z",
+      "sprint": "15"
+    },
+    "749": {
+      "activityId": 749,
+      "branchName": "ACTIVITY-749",
+      "title": "Estimate Decimal Sums 2",
+      "releasedOn": "2015-07-16T02:00:28Z",
+      "sprint": "15"
+    },
+    "751": {
+      "activityId": 751,
+      "branchName": "ACTIVITY-751",
+      "title": "Area Rule 2",
+      "releasedOn": "2015-07-14T07:09:49Z",
+      "sprint": "15"
+    }
+  },
+  "Sprint 16 (20th Jul - 31st Jul)": {
+    "1": {
+      "activityId": 1,
+      "branchName": "ACTIVITY-1",
+      "title": "How Many?",
+      "releasedOn": "2015-07-23T01:36:00Z",
+      "sprint": "16"
+    },
+    "9": {
+      "activityId": 9,
+      "branchName": "ACTIVITY-9",
+      "title": "Counting Forwards",
+      "releasedOn": "2015-07-28T01:29:52Z",
+      "sprint": "16"
+    },
+    "10": {
+      "activityId": 10,
+      "branchName": "ACTIVITY-10",
+      "title": "Going Up",
+      "releasedOn": "2015-07-28T01:29:56Z",
+      "sprint": "16"
+    },
+    "13": {
+      "activityId": 13,
+      "branchName": "ACTIVITY-13",
+      "title": "Making Numbers Count",
+      "releasedOn": "2015-07-24T06:09:28Z",
+      "sprint": "16"
+    },
+    "15": {
+      "activityId": 15,
+      "branchName": "ACTIVITY-15",
+      "title": "Who has the Money? (GBP)",
+      "releasedOn": "2015-07-24T06:09:32Z",
+      "sprint": "16"
+    },
+    "16": {
+      "activityId": 16,
+      "branchName": "ACTIVITY-16",
+      "title": "Who has The Money? (NZD)",
+      "releasedOn": "2015-07-27T07:29:55Z",
+      "sprint": "16"
+    },
+    "22": {
+      "activityId": 22,
+      "branchName": "ACTIVITY-22",
+      "title": "Groups of Two",
+      "releasedOn": "2015-07-28T01:29:29Z",
+      "sprint": "16"
+    },
+    "23": {
+      "activityId": 23,
+      "branchName": "ACTIVITY-23",
+      "title": "Groups of Two",
+      "releasedOn": "2015-07-28T01:29:33Z",
+      "sprint": "16"
+    },
+    "24": {
+      "activityId": 24,
+      "branchName": "ACTIVITY-24",
+      "title": "Groups of Five",
+      "releasedOn": "2015-07-28T01:29:36Z",
+      "sprint": "16"
+    },
+    "25": {
+      "activityId": 25,
+      "branchName": "ACTIVITY-25",
+      "title": "Groups of Five",
+      "releasedOn": "2015-07-28T01:29:40Z",
+      "sprint": "16"
+    },
+    "26": {
+      "activityId": 26,
+      "branchName": "ACTIVITY-26",
+      "title": "Groups of Ten",
+      "releasedOn": "2015-07-28T01:29:44Z",
+      "sprint": "16"
+    },
+    "27": {
+      "activityId": 27,
+      "branchName": "ACTIVITY-27",
+      "title": "Groups of Ten",
+      "releasedOn": "2015-07-28T01:29:48Z",
+      "sprint": "16"
+    },
+    "36": {
+      "activityId": 36,
+      "branchName": "ACTIVITY-36",
+      "title": "Groups of Seven",
+      "releasedOn": "2015-07-31T07:42:29Z",
+      "sprint": "16"
+    },
+    "37": {
+      "activityId": 37,
+      "branchName": "ACTIVITY-37",
+      "title": "Groups of Eight",
+      "releasedOn": "2015-07-31T07:42:51Z",
+      "sprint": "16"
+    },
+    "38": {
+      "activityId": 38,
+      "branchName": "ACTIVITY-38",
+      "title": "Groups of Eight",
+      "releasedOn": "2015-07-31T07:42:56Z",
+      "sprint": "16"
+    },
+    "39": {
+      "activityId": 39,
+      "branchName": "ACTIVITY-39",
+      "title": "Groups of Nine",
+      "releasedOn": "2015-07-31T07:43:05Z",
+      "sprint": "16"
+    },
+    "40": {
+      "activityId": 40,
+      "branchName": "ACTIVITY-40",
+      "title": "Groups of Nine",
+      "releasedOn": "2015-07-31T07:42:45Z",
+      "sprint": "16"
+    },
+    "58": {
+      "activityId": 58,
+      "branchName": "ACTIVITY-58",
+      "title": "Adding to Ten",
+      "releasedOn": "2015-07-29T06:40:20Z",
+      "sprint": "16"
+    },
+    "60": {
+      "activityId": 60,
+      "branchName": "ACTIVITY-60",
+      "title": "All about Twenty",
+      "releasedOn": "2015-07-29T06:40:25Z",
+      "sprint": "16"
+    },
+    "61": {
+      "activityId": 61,
+      "branchName": "ACTIVITY-61",
+      "title": "Subtracting from Ten",
+      "releasedOn": "2015-07-29T06:40:51Z",
+      "sprint": "16"
+    },
+    "63": {
+      "activityId": 63,
+      "branchName": "ACTIVITY-63",
+      "title": "Addictive Addition",
+      "releasedOn": "2015-07-27T02:40:59Z",
+      "sprint": "16"
+    },
+    "64": {
+      "activityId": 64,
+      "branchName": "ACTIVITY-64",
+      "title": "Add to 18",
+      "releasedOn": "2015-07-27T02:41:06Z",
+      "sprint": "16"
+    },
+    "74": {
+      "activityId": 74,
+      "branchName": "ACTIVITY-74",
+      "title": "How much Change?",
+      "releasedOn": "2015-07-20T04:46:45Z",
+      "sprint": "16"
+    },
+    "93": {
+      "activityId": 93,
+      "branchName": "ACTIVITY-93",
+      "title": "Hour Times",
+      "releasedOn": "2015-07-29T06:58:45Z",
+      "sprint": "16"
+    },
+    "100": {
+      "activityId": 100,
+      "branchName": "ACTIVITY-100",
+      "title": "How many Faces?",
+      "releasedOn": "2015-07-21T05:50:41Z",
+      "sprint": "16"
+    },
+    "101": {
+      "activityId": 101,
+      "branchName": "ACTIVITY-101",
+      "title": "How many Edges?",
+      "releasedOn": "2015-07-21T05:50:46Z",
+      "sprint": "16"
+    },
+    "102": {
+      "activityId": 102,
+      "branchName": "ACTIVITY-102",
+      "title": "How many Edges?",
+      "releasedOn": "2015-07-21T05:50:49Z",
+      "sprint": "16"
+    },
+    "103": {
+      "activityId": 103,
+      "branchName": "ACTIVITY-103",
+      "title": "How many Corners?",
+      "releasedOn": "2015-07-21T05:50:53Z",
+      "sprint": "16"
+    },
+    "104": {
+      "activityId": 104,
+      "branchName": "ACTIVITY-104",
+      "title": "How many Corners?",
+      "releasedOn": "2015-07-21T05:50:57Z",
+      "sprint": "16"
+    },
+    "116": {
+      "activityId": 116,
+      "branchName": "ACTIVITY-116",
+      "title": "Flip, Slide, Turn",
+      "releasedOn": "2015-07-20T04:48:40Z",
+      "sprint": "16"
+    },
+    "117": {
+      "activityId": 117,
+      "branchName": "ACTIVITY-117",
+      "title": "Transformations",
+      "releasedOn": "2015-07-20T04:48:43Z",
+      "sprint": "16"
+    },
+    "212": {
+      "activityId": 212,
+      "branchName": "ACTIVITY-212",
+      "title": "Column Graphs",
+      "releasedOn": "2015-07-23T01:36:10Z",
+      "sprint": "16"
+    },
+    "213": {
+      "activityId": 213,
+      "branchName": "ACTIVITY-213",
+      "title": "Bar Graphs 1",
+      "releasedOn": "2015-07-23T01:36:17Z",
+      "sprint": "16"
+    },
+    "214": {
+      "activityId": 214,
+      "branchName": "ACTIVITY-214",
+      "title": "Bar Chart",
+      "releasedOn": "2015-07-23T01:36:25Z",
+      "sprint": "16"
+    },
+    "216": {
+      "activityId": 216,
+      "branchName": "ACTIVITY-216",
+      "title": "How many Blocks?",
+      "releasedOn": "2015-07-29T06:40:30Z",
+      "sprint": "16"
+    },
+    "335": {
+      "activityId": 335,
+      "branchName": "ACTIVITY-335",
+      "title": "Time Mentals",
+      "releasedOn": "2015-07-27T07:30:00Z",
+      "sprint": "16"
+    },
+    "338": {
+      "activityId": 338,
+      "branchName": "ACTIVITY-338",
+      "title": "Australian Time Zones",
+      "releasedOn": "2015-07-24T06:09:40Z",
+      "sprint": "16"
+    },
+    "340": {
+      "activityId": 340,
+      "branchName": "ACTIVITY-340",
+      "title": "Reading from a Column Graph",
+      "releasedOn": "2015-07-21T08:53:33Z",
+      "sprint": "16"
+    },
+    "341": {
+      "activityId": 341,
+      "branchName": "ACTIVITY-341",
+      "title": "Bar Graphs 2",
+      "releasedOn": "2015-07-21T08:53:55Z",
+      "sprint": "16"
+    },
+    "342": {
+      "activityId": 342,
+      "branchName": "ACTIVITY-342",
+      "title": "Reading from a Bar Chart",
+      "releasedOn": "2015-07-21T08:56:04Z",
+      "sprint": "16"
+    },
+    "343": {
+      "activityId": 343,
+      "branchName": "ACTIVITY-343",
+      "title": "Line Graphs: Interpretation",
+      "releasedOn": "2015-07-24T00:39:25Z",
+      "sprint": "16"
+    },
+    "344": {
+      "activityId": 344,
+      "branchName": "ACTIVITY-344",
+      "title": "Line Graphs: Interpretation 1",
+      "releasedOn": "2015-07-24T02:30:34Z",
+      "sprint": "16"
+    },
+    "345": {
+      "activityId": 345,
+      "branchName": "ACTIVITY-345",
+      "title": "Line Graphs: Interpretation",
+      "releasedOn": "2015-07-24T02:30:37Z",
+      "sprint": "16"
+    },
+    "385": {
+      "activityId": 385,
+      "branchName": "ACTIVITY-385",
+      "title": "Directed Numbers",
+      "releasedOn": "2015-07-27T02:09:08Z",
+      "sprint": "16"
+    },
+    "453": {
+      "activityId": 453,
+      "branchName": "ACTIVITY-453",
+      "title": "Equal, Complement or Supplement?",
+      "releasedOn": "2015-07-24T06:11:21Z",
+      "sprint": "16"
+    },
+    "454": {
+      "activityId": 454,
+      "branchName": "ACTIVITY-454",
+      "title": "Equal, Complement, or Supplement?",
+      "releasedOn": "2015-07-24T06:11:17Z",
+      "sprint": "16"
+    },
+    "662": {
+      "activityId": 662,
+      "branchName": "ACTIVITY-662",
+      "title": "Probability Scale",
+      "releasedOn": "2015-07-29T06:40:43Z",
+      "sprint": "16"
+    },
+    "755": {
+      "activityId": 755,
+      "branchName": "ACTIVITY-755",
+      "title": "Counting Principle",
+      "releasedOn": "2015-07-29T06:40:37Z",
+      "sprint": "16"
+    },
+    "787": {
+      "activityId": 787,
+      "branchName": "ACTIVITY-787",
+      "title": "Perimeter: Triangles 2",
+      "releasedOn": "2015-07-31T07:42:35Z",
+      "sprint": "16"
+    },
+    "862": {
+      "activityId": 862,
+      "branchName": "ACTIVITY-862",
+      "title": "Calculating Dividends",
+      "releasedOn": "2015-07-27T07:33:01Z",
+      "sprint": "16"
+    },
+    "1211": {
+      "activityId": 1211,
+      "branchName": "ACTIVITY-1211",
+      "title": "Identifying Fractions on a Number Line",
+      "releasedOn": "2015-07-21T05:52:43Z",
+      "sprint": "16"
+    }
+  },
+  "Sprint 17 (3rd Aug-14th Aug)": {
+    "1": {
+      "activityId": 1,
+      "branchName": "ACTIVITY-1",
+      "title": "How Many?",
+      "releasedOn": "2015-08-03T05:40:18.000Z",
+      "sprint": "17"
+    },
+    "9": {
+      "activityId": 9,
+      "branchName": "ACTIVITY-9",
+      "title": "Counting Forwards",
+      "releasedOn": "2015-08-03T05:40:27.000Z",
+      "sprint": "17"
+    },
+    "10": {
+      "activityId": 10,
+      "branchName": "ACTIVITY-10",
+      "title": "Going Up",
+      "releasedOn": "2015-08-03T05:40:27.000Z",
+      "sprint": "17"
+    },
+    "13": {
+      "activityId": 13,
+      "branchName": "ACTIVITY-13",
+      "title": "Making Numbers Count",
+      "releasedOn": "2015-08-03T05:40:28.000Z",
+      "sprint": "17"
+    },
+    "14": {
+      "activityId": 14,
+      "branchName": "ACTIVITY-14",
+      "title": "Who has the Money?",
+      "releasedOn": "2015-08-07T07:56:51.000Z",
+      "sprint": "17"
+    },
+    "15": {
+      "activityId": 15,
+      "branchName": "ACTIVITY-15",
+      "title": "Who has the Money? (GBP)",
+      "releasedOn": "2015-08-03T05:40:29.000Z",
+      "sprint": "17"
+    },
+    "16": {
+      "activityId": 16,
+      "branchName": "ACTIVITY-16",
+      "title": "Who has The Money? (NZD)",
+      "releasedOn": "2015-08-03T05:40:30.000Z",
+      "sprint": "17"
+    },
+    "22": {
+      "activityId": 22,
+      "branchName": "ACTIVITY-22",
+      "title": "Groups of Two",
+      "releasedOn": "2015-08-03T05:40:19.000Z",
+      "sprint": "17"
+    },
+    "23": {
+      "activityId": 23,
+      "branchName": "ACTIVITY-23",
+      "title": "Groups of Two",
+      "releasedOn": "2015-08-03T05:40:19.000Z",
+      "sprint": "17"
+    },
+    "24": {
+      "activityId": 24,
+      "branchName": "ACTIVITY-24",
+      "title": "Groups of Five",
+      "releasedOn": "2015-08-03T05:40:20.000Z",
+      "sprint": "17"
+    },
+    "25": {
+      "activityId": 25,
+      "branchName": "ACTIVITY-25",
+      "title": "Groups of Five",
+      "releasedOn": "2015-08-03T05:40:20.000Z",
+      "sprint": "17"
+    },
+    "26": {
+      "activityId": 26,
+      "branchName": "ACTIVITY-26",
+      "title": "Groups of Ten",
+      "releasedOn": "2015-08-03T05:40:21.000Z",
+      "sprint": "17"
+    },
+    "27": {
+      "activityId": 27,
+      "branchName": "ACTIVITY-27",
+      "title": "Groups of Ten",
+      "releasedOn": "2015-08-03T05:40:21.000Z",
+      "sprint": "17"
+    },
+    "28": {
+      "activityId": 28,
+      "branchName": "ACTIVITY-28",
+      "title": "How Full?",
+      "releasedOn": "2015-08-07T07:54:24.000Z",
+      "sprint": "17"
+    },
+    "36": {
+      "activityId": 36,
+      "branchName": "ACTIVITY-36",
+      "title": "Groups of Seven",
+      "releasedOn": "2015-08-03T05:40:33.000Z",
+      "sprint": "17"
+    },
+    "37": {
+      "activityId": 37,
+      "branchName": "ACTIVITY-37",
+      "title": "Groups of Eight",
+      "releasedOn": "2015-08-03T05:40:34.000Z",
+      "sprint": "17"
+    },
+    "38": {
+      "activityId": 38,
+      "branchName": "ACTIVITY-38",
+      "title": "Groups of Eight",
+      "releasedOn": "2015-08-03T05:40:34.000Z",
+      "sprint": "17"
+    },
+    "39": {
+      "activityId": 39,
+      "branchName": "ACTIVITY-39",
+      "title": "Groups of Nine",
+      "releasedOn": "2015-08-03T05:40:34.000Z",
+      "sprint": "17"
+    },
+    "40": {
+      "activityId": 40,
+      "branchName": "ACTIVITY-40",
+      "title": "Groups of Nine",
+      "releasedOn": "2015-08-03T05:40:35.000Z",
+      "sprint": "17"
+    },
+    "58": {
+      "activityId": 58,
+      "branchName": "ACTIVITY-58",
+      "title": "Adding to Ten",
+      "releasedOn": "2015-08-03T05:40:35.000Z",
+      "sprint": "17"
+    },
+    "60": {
+      "activityId": 60,
+      "branchName": "ACTIVITY-60",
+      "title": "All about Twenty",
+      "releasedOn": "2015-08-03T05:40:36.000Z",
+      "sprint": "17"
+    },
+    "61": {
+      "activityId": 61,
+      "branchName": "ACTIVITY-61",
+      "title": "Subtracting from Ten",
+      "releasedOn": "2015-08-03T05:40:36.000Z",
+      "sprint": "17"
+    },
+    "63": {
+      "activityId": 63,
+      "branchName": "ACTIVITY-63",
+      "title": "Addictive Addition",
+      "releasedOn": "2015-08-03T05:40:37.000Z",
+      "sprint": "17"
+    },
+    "64": {
+      "activityId": 64,
+      "branchName": "ACTIVITY-64",
+      "title": "Add to 18",
+      "releasedOn": "2015-08-03T05:40:37.000Z",
+      "sprint": "17"
+    },
+    "74": {
+      "activityId": 74,
+      "branchName": "ACTIVITY-74",
+      "title": "How much Change?",
+      "releasedOn": "2015-08-03T05:40:40.000Z",
+      "sprint": "17"
+    },
+    "93": {
+      "activityId": 93,
+      "branchName": "ACTIVITY-93",
+      "title": "Hour Times",
+      "releasedOn": "2015-08-03T05:39:47.000Z",
+      "sprint": "17"
+    },
+    "100": {
+      "activityId": 100,
+      "branchName": "ACTIVITY-100",
+      "title": "How many Faces?",
+      "releasedOn": "2015-08-03T05:40:48.000Z",
+      "sprint": "17"
+    },
+    "101": {
+      "activityId": 101,
+      "branchName": "ACTIVITY-101",
+      "title": "How many Edges?",
+      "releasedOn": "2015-08-03T05:40:48.000Z",
+      "sprint": "17"
+    },
+    "102": {
+      "activityId": 102,
+      "branchName": "ACTIVITY-102",
+      "title": "How many Edges?",
+      "releasedOn": "2015-08-03T05:40:49.000Z",
+      "sprint": "17"
+    },
+    "103": {
+      "activityId": 103,
+      "branchName": "ACTIVITY-103",
+      "title": "How many Corners?",
+      "releasedOn": "2015-08-03T05:40:49.000Z",
+      "sprint": "17"
+    },
+    "104": {
+      "activityId": 104,
+      "branchName": "ACTIVITY-104",
+      "title": "How many Corners?",
+      "releasedOn": "2015-08-03T05:40:49.000Z",
+      "sprint": "17"
+    },
+    "116": {
+      "activityId": 116,
+      "branchName": "ACTIVITY-116",
+      "title": "Flip, Slide, Turn",
+      "releasedOn": "2015-08-03T05:40:53.000Z",
+      "sprint": "17"
+    },
+    "117": {
+      "activityId": 117,
+      "branchName": "ACTIVITY-117",
+      "title": "Transformations",
+      "releasedOn": "2015-08-03T05:40:53.000Z",
+      "sprint": "17"
+    },
+    "120": {
+      "activityId": 120,
+      "branchName": "ACTIVITY-120",
+      "title": "Numbers in Words",
+      "releasedOn": "2015-08-10T08:11:44.000Z",
+      "sprint": "17"
+    },
+    "122": {
+      "activityId": 122,
+      "branchName": "ACTIVITY-122",
+      "title": "Place Value to Thousands",
+      "releasedOn": "2015-08-10T08:10:38.000Z",
+      "sprint": "17"
+    },
+    "123": {
+      "activityId": 123,
+      "branchName": "ACTIVITY-123",
+      "title": "Place Value to Thousands",
+      "releasedOn": "2015-08-10T08:10:48.000Z",
+      "sprint": "17"
+    },
+    "145": {
+      "activityId": 145,
+      "branchName": "ACTIVITY-145",
+      "title": "Multiplication Arrays",
+      "releasedOn": "2015-08-07T07:54:15.000Z",
+      "sprint": "17"
+    },
+    "146": {
+      "activityId": 146,
+      "branchName": "ACTIVITY-146",
+      "title": "Multiplication Facts",
+      "releasedOn": "2015-08-10T08:10:18.000Z",
+      "sprint": "17"
+    },
+    "147": {
+      "activityId": 147,
+      "branchName": "ACTIVITY-147",
+      "title": "Division Facts 1",
+      "releasedOn": "2015-08-10T08:10:52.000Z",
+      "sprint": "17"
+    },
+    "149": {
+      "activityId": 149,
+      "branchName": "ACTIVITY-149",
+      "title": "Remainders by Arrays",
+      "releasedOn": "2015-08-07T07:53:25.000Z",
+      "sprint": "17"
+    },
+    "171": {
+      "activityId": 171,
+      "branchName": "ACTIVITY-171",
+      "title": "Decreasing Patterns",
+      "releasedOn": "2015-08-07T07:49:43.000Z",
+      "sprint": "17"
+    },
+    "172": {
+      "activityId": 172,
+      "branchName": "ACTIVITY-172",
+      "title": "Missing Values",
+      "releasedOn": "2015-08-07T07:48:32.000Z",
+      "sprint": "17"
+    },
+    "173": {
+      "activityId": 173,
+      "branchName": "ACTIVITY-173",
+      "title": "Missing Numbers",
+      "releasedOn": "2015-08-07T07:48:37.000Z",
+      "sprint": "17"
+    },
+    "174": {
+      "activityId": 174,
+      "branchName": "ACTIVITY-174",
+      "title": "Remainders by Tables",
+      "releasedOn": "2015-08-07T07:47:36.000Z",
+      "sprint": "17"
+    },
+    "176": {
+      "activityId": 176,
+      "branchName": "ACTIVITY-176",
+      "title": "Grams and Kilograms",
+      "releasedOn": "2015-08-07T07:47:42.000Z",
+      "sprint": "17"
+    },
+    "177": {
+      "activityId": 177,
+      "branchName": "ACTIVITY-177",
+      "title": "Grams and Kilograms 1",
+      "releasedOn": "2015-08-07T07:46:29.000Z",
+      "sprint": "17"
+    },
+    "178": {
+      "activityId": 178,
+      "branchName": "ACTIVITY-178",
+      "title": "Millilitres and Litres",
+      "releasedOn": "2015-08-07T07:45:29.000Z",
+      "sprint": "17"
+    },
+    "179": {
+      "activityId": 179,
+      "branchName": "ACTIVITY-179",
+      "title": "Milliliters and Liters",
+      "releasedOn": "2015-08-07T07:46:35.000Z",
+      "sprint": "17"
+    },
+    "212": {
+      "activityId": 212,
+      "branchName": "ACTIVITY-212",
+      "title": "Column Graphs",
+      "releasedOn": "2015-08-03T05:41:14.000Z",
+      "sprint": "17"
+    },
+    "213": {
+      "activityId": 213,
+      "branchName": "ACTIVITY-213",
+      "title": "Bar Graphs 1",
+      "releasedOn": "2015-08-03T05:41:15.000Z",
+      "sprint": "17"
+    },
+    "214": {
+      "activityId": 214,
+      "branchName": "ACTIVITY-214",
+      "title": "Bar Chart",
+      "releasedOn": "2015-08-03T05:41:15.000Z",
+      "sprint": "17"
+    },
+    "216": {
+      "activityId": 216,
+      "branchName": "ACTIVITY-216",
+      "title": "How many Blocks?",
+      "releasedOn": "2015-08-03T05:41:18.000Z",
+      "sprint": "17"
+    },
+    "220": {
+      "activityId": 220,
+      "branchName": "ACTIVITY-220",
+      "title": "Place Value to Millions",
+      "releasedOn": "2015-08-07T07:45:22.000Z",
+      "sprint": "17"
+    },
+    "221": {
+      "activityId": 221,
+      "branchName": "ACTIVITY-221",
+      "title": "Place Value to Millions",
+      "releasedOn": "2015-08-07T07:44:37.000Z",
+      "sprint": "17"
+    },
+    "222": {
+      "activityId": 222,
+      "branchName": "ACTIVITY-222",
+      "title": "Kilogram Conversions",
+      "releasedOn": "2015-08-10T08:09:31.000Z",
+      "sprint": "17"
+    },
+    "224": {
+      "activityId": 224,
+      "branchName": "ACTIVITY-224",
+      "title": "Rounding Numbers",
+      "releasedOn": "2015-08-10T08:10:06.000Z",
+      "sprint": "17"
+    },
+    "225": {
+      "activityId": 225,
+      "branchName": "ACTIVITY-225",
+      "title": "Rounding Numbers 1",
+      "releasedOn": "2015-08-10T08:08:23.000Z",
+      "sprint": "17"
+    },
+    "227": {
+      "activityId": 227,
+      "branchName": "ACTIVITY-227",
+      "title": "Add Integers",
+      "releasedOn": "2015-08-10T08:11:38.000Z",
+      "sprint": "17"
+    },
+    "228": {
+      "activityId": 228,
+      "branchName": "ACTIVITY-228",
+      "title": "Convert from Roman Numerals",
+      "releasedOn": "2015-08-10T08:12:46.000Z",
+      "sprint": "17"
+    },
+    "335": {
+      "activityId": 335,
+      "branchName": "ACTIVITY-335",
+      "title": "Time Mentals",
+      "releasedOn": "2015-08-03T05:41:17.000Z",
+      "sprint": "17"
+    },
+    "338": {
+      "activityId": 338,
+      "branchName": "ACTIVITY-338",
+      "title": "Australian Time Zones",
+      "releasedOn": "2015-08-03T05:41:17.000Z",
+      "sprint": "17"
+    },
+    "340": {
+      "activityId": 340,
+      "branchName": "ACTIVITY-340",
+      "title": "Reading from a Column Graph",
+      "releasedOn": "2015-08-03T05:39:54.000Z",
+      "sprint": "17"
+    },
+    "341": {
+      "activityId": 341,
+      "branchName": "ACTIVITY-341",
+      "title": "Bar Graphs 2",
+      "releasedOn": "2015-08-03T05:41:17.000Z",
+      "sprint": "17"
+    },
+    "342": {
+      "activityId": 342,
+      "branchName": "ACTIVITY-342",
+      "title": "Reading from a Bar Chart",
+      "releasedOn": "2015-08-03T05:41:18.000Z",
+      "sprint": "17"
+    },
+    "343": {
+      "activityId": 343,
+      "branchName": "ACTIVITY-343",
+      "title": "Line Graphs: Interpretation",
+      "releasedOn": "2015-08-03T05:39:55.000Z",
+      "sprint": "17"
+    },
+    "344": {
+      "activityId": 344,
+      "branchName": "ACTIVITY-344",
+      "title": "Line Graphs: Interpretation 1",
+      "releasedOn": "2015-08-03T05:39:55.000Z",
+      "sprint": "17"
+    },
+    "345": {
+      "activityId": 345,
+      "branchName": "ACTIVITY-345",
+      "title": "Line Graphs: Interpretation",
+      "releasedOn": "2015-08-03T05:39:56.000Z",
+      "sprint": "17"
+    },
+    "385": {
+      "activityId": 385,
+      "branchName": "ACTIVITY-385",
+      "title": "Directed Numbers",
+      "releasedOn": "2015-08-03T05:41:18.000Z",
+      "sprint": "17"
+    },
+    "452": {
+      "activityId": 452,
+      "branchName": "ACTIVITY-452",
+      "title": "Parallel Lines",
+      "releasedOn": "2015-08-07T07:56:46.000Z",
+      "sprint": "17"
+    },
+    "453": {
+      "activityId": 453,
+      "branchName": "ACTIVITY-453",
+      "title": "Equal, Complement or Supplement?",
+      "releasedOn": "2015-08-03T05:41:19.000Z",
+      "sprint": "17"
+    },
+    "454": {
+      "activityId": 454,
+      "branchName": "ACTIVITY-454",
+      "title": "Equal, Complement, or Supplement?",
+      "releasedOn": "2015-08-03T05:41:19.000Z",
+      "sprint": "17"
+    },
+    "662": {
+      "activityId": 662,
+      "branchName": "ACTIVITY-662",
+      "title": "Probability Scale",
+      "releasedOn": "2015-08-03T05:40:56.000Z",
+      "sprint": "17"
+    },
+    "678": {
+      "activityId": 678,
+      "branchName": "ACTIVITY-678",
+      "title": "Area: Quadrilaterals",
+      "releasedOn": "2015-08-07T07:57:30.000Z",
+      "sprint": "17"
+    },
+    "698": {
+      "activityId": 698,
+      "branchName": "ACTIVITY-698",
+      "title": "Plane Figure Terms",
+      "releasedOn": "2015-08-03T05:41:20.000Z",
+      "sprint": "17"
+    },
+    "755": {
+      "activityId": 755,
+      "branchName": "ACTIVITY-755",
+      "title": "Counting Principle",
+      "releasedOn": "2015-08-03T05:41:02.000Z",
+      "sprint": "17"
+    },
+    "771": {
+      "activityId": 771,
+      "branchName": "ACTIVITY-771",
+      "title": "Volume: Rearrange Formula",
+      "releasedOn": "2015-08-07T07:52:37.000Z",
+      "sprint": "17"
+    },
+    "775": {
+      "activityId": 775,
+      "branchName": "ACTIVITY-775",
+      "title": "Probability Without Replacement",
+      "releasedOn": "2015-08-07T07:51:37.000Z",
+      "sprint": "17"
+    },
+    "776": {
+      "activityId": 776,
+      "branchName": "ACTIVITY-776",
+      "title": "Probability without Replacement 1",
+      "releasedOn": "2015-08-07T07:51:44.000Z",
+      "sprint": "17"
+    },
+    "787": {
+      "activityId": 787,
+      "branchName": "ACTIVITY-787",
+      "title": "Perimeter: Triangles 2",
+      "releasedOn": "2015-08-03T10:50:59.000Z",
+      "sprint": "17"
+    },
+    "810": {
+      "activityId": 810,
+      "branchName": "ACTIVITY-810",
+      "title": "Model Addition",
+      "releasedOn": "2015-08-07T07:55:21.000Z",
+      "sprint": "17"
+    },
+    "813": {
+      "activityId": 813,
+      "branchName": "ACTIVITY-813",
+      "title": "Match the Solid 1",
+      "releasedOn": "2015-08-07T07:44:30.000Z",
+      "sprint": "17"
+    },
+    "824": {
+      "activityId": 824,
+      "branchName": "ACTIVITY-824",
+      "title": "Count by Tens",
+      "releasedOn": "2015-08-07T07:49:32.000Z",
+      "sprint": "17"
+    },
+    "862": {
+      "activityId": 862,
+      "branchName": "ACTIVITY-862",
+      "title": "Calculating Dividends",
+      "releasedOn": "2015-08-03T05:40:32.000Z",
+      "sprint": "17"
+    },
+    "1114": {
+      "activityId": 1114,
+      "branchName": "ACTIVITY-1114",
+      "title": "Matching Numbers to 20",
+      "releasedOn": "2015-08-07T07:43:29.000Z",
+      "sprint": "17"
+    },
+    "1115": {
+      "activityId": 1115,
+      "branchName": "ACTIVITY-1115",
+      "title": "Matching Numbers to 10",
+      "releasedOn": "2015-08-07T07:43:23.000Z",
+      "sprint": "17"
+    },
+    "1211": {
+      "activityId": 1211,
+      "branchName": "ACTIVITY-1211",
+      "title": "Identifying Fractions on a Number Line",
+      "releasedOn": "2015-08-03T05:40:33.000Z",
+      "sprint": "17"
+    }
+  }
+}
