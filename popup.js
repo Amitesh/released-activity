@@ -2,6 +2,7 @@
 (function(){
 
 	var url = "https://mathletics.atlassian.net";
+	var sprintId = 389; // sprint-18
 
 	function getReleases(){
 		// Send Message to active tab page's content.js
@@ -25,8 +26,8 @@
 	}
 
 	function open(){
-		var sprintId 	= $('.sprint-id').val() || 377; // Sprint-17
-		var query 		= 'project = ACTIVITY AND status = "Released to Live" AND Sprint = ' + sprintId + 
+				sprintId 	= $('.sprint-id').val() || sprintId; // Sprint-18
+		var query 		= 'project = ACTIVITY AND (status = "Released to Live" OR status = "Done") AND Sprint = ' + sprintId + 
 										' AND issueKey not in (ACTIVITY-1282,ACTIVITY-1283,ACTIVITY-1284, ACTIVITY-1285,ACTIVITY-1286, ACTIVITY-1287, ACTIVITY-1288) ORDER BY key ASC';
 		url = url + '/issues/?jql=' + encodeURI(query);
 
