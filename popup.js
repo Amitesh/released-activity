@@ -2,7 +2,7 @@
 (function(){
 
 	var url = "https://mathletics.atlassian.net";
-	var sprintId = 389; // sprint-18
+	var sprintId = 402; // sprint-19
 
 	function getReleases(){
 		// Send Message to active tab page's content.js
